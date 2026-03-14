@@ -8,4 +8,4 @@ CREATE TABLE administracja (
 );
 
 INSERT INTO administracja (nazwa, haslo)
-VALUES ('tytek', '123');
+VALUES (NULL,'tytek', '123');
