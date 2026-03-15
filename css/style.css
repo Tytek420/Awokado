@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: Lexend, sans-serif;
+}
+#kon{
+    width: 100%;
+    min-height: 100vh;
+    background-color: #333;
+}
+#tittle{
+    color: white;
+}
