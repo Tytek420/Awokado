@@ -11,7 +11,7 @@
 }
 header{
     width: 100%;
-    min-height: 50px;
+    height: 100px;
     background: linear-gradient(#008000,#32CD32);
 }
 #tittle{
